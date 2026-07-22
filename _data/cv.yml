@@ -1,0 +1,103 @@
+cv:
+  name: Yang Bing
+  label: Postdoctoral Fellow in Medical Image Analysis
+  email: 12031236@mail.sustech.edu.cn
+  location: Hong Kong / Shenzhen, China
+  image: ""
+  summary: Postdoctoral Fellow jointly appointed by The Chinese University of Hong Kong (CUHK) and CUHK-Shenzhen, working on medical image analysis, including OCT image segmentation, uncertainty estimation, and semi-/self-supervised learning.
+
+  social_networks:
+    - network: GitHub
+      username: YangBing-9527
+    - network: Email
+      username: 12031236@mail.sustech.edu.cn
+
+  sections:
+    Education:
+      - institution: Southern University of Science and Technology (SUSTech)
+        location: Shenzhen, China
+        area: Mathematics, Department of Computer Science and Engineering
+        studyType: Ph.D.
+        start_date: 2020-09
+        end_date: 2025-12
+        highlights:
+          - "Advisor: Prof. Jiang Liu"
+          - "Research: medical image analysis, OCT image segmentation, uncertainty estimation, semi-/self-supervised learning"
+
+      - institution: Sichuan University
+        location: Chengdu, China
+        area: Software Engineering, College of Computer Science
+        studyType: M.Eng.
+        start_date: 2017-09
+        end_date: 2020-06
+
+      - institution: Army Medical University
+        location: Chongqing, China
+        area: Biomedical Engineering, College of Biomedical Engineering
+        studyType: B.Eng.
+        start_date: 2011-09
+        end_date: 2016-06
+
+      - institution: The Chinese University of Hong Kong (CUHK)
+        location: Hong Kong, China
+        area: Biomedical Engineering
+        studyType: Visiting Ph.D. student
+        start_date: 2024-10
+        end_date: 2025-12
+
+      - institution: Cixi Institute of Biomedical Engineering, Ningbo Institute of Materials Technology and Engineering, CAS
+        location: Ningbo, China
+        area: Biomedical Engineering
+        studyType: Visiting student
+        start_date: 2018-11
+        end_date: 2019-12
+
+    Experience:
+      - company: The Chinese University of Hong Kong (CUHK) & CUHK-Shenzhen
+        position: Postdoctoral Fellow (joint appointment)
+        location: Hong Kong / Shenzhen, China
+        start_date: 2025-12
+        end_date: present
+
+      - company: Streamax Technology Co., Ltd.
+        position: Image Algorithm Intern
+        location: Shenzhen, China
+        start_date: 2020-03
+        end_date: 2020-08
+
+      - company: Chengdu Ruima Technology Co., Ltd.
+        position: Image Algorithm Intern
+        location: Chengdu, China
+        start_date: 2018-09
+        end_date: 2018-11
+        highlights:
+          - TensorRT-accelerated MTCNN face detection
+
+    Teaching Assistant:
+      - company: Southern University of Science and Technology
+        position: Teaching Assistant
+        location: Shenzhen, China
+        highlights:
+          - "Courses: Introduction to Artificial Intelligence (3 times), Frontier Lectures in Computer Science (2 times), Introduction to Chinese Philosophy, Marxism and the Contemporary World"
+          - "Outstanding Graduate Teaching Assistant (university-level), Fall 2022"
+          - "Outstanding Student Assistant, College of Engineering, Spring & Fall 2021-2022"
+
+    Honors & Awards:
+      - title: Outstanding Graduate Student
+        awarder: Southern University of Science and Technology
+        date: 2023
+
+      - title: Outstanding Graduate Teaching Assistant (university-level)
+        awarder: Southern University of Science and Technology
+        date: 2022
+
+      - title: Outstanding Student Assistant, College of Engineering
+        awarder: Southern University of Science and Technology
+        date: 2022
+
+    Skills:
+      - name: Programming
+        keywords: "Python (proficient), Matlab, C++, Shell"
+
+      - name: Development Environment
+        keywords: "Linux"
